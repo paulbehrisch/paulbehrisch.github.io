@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Exchanging currency without getting ripped off"
 date:   2020-05-10 14:28:35 +1000
-categories: jekyll update
+categories: personal finance
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As an expat who lived in 6 countries, I dealt with a large number of foreign currency exchanges.
 
-Jekyll requires blog post files to be named according to the following format:
+My key takeaways are that:
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- never exchange money with your bank, unless they have a promotion. Most banks charge anything from 1%-5% for the currency exchange plus a service fee. Often the service fee indicates it is free, but then the exchange rate is really bad. Use xe.com to get an idea of what the current spot rate is, and see what's the difference to what the bank charges.
+- Transferwise seems to be okay for smaller exchanges, but a 1% fee is still expensive when exchanging 6 or 7 digit amounts.
+- Forex brokers/investment accounts usually charge the best rates. I use Interactive Brokers, which offers excellent rates. IB is not for everyone, since they charge a monthly fee of $10 when having a balance under 100k USD.
