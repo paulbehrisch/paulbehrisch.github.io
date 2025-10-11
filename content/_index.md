@@ -1,11 +1,3 @@
-Hi, I'm Paul Behrisch! I work at [me&u](https://www.meandu.com/) as a Staff Platform Engineer based in Sydney, Australia.
+Hi, I'm Paul Behrisch. I'm a Staff Platform Engineer at [me&u](https://www.meandu.com/) in Sydney, where I build and operate our cloud and Kubernetes infrastructure.
 
-With a decade of experience spanning multiple industries such as Banking, FinTech, Startups, Insurance, and the public sector, I bring a diverse and comprehensive background to the table.
-
-I hold several advanced IT certifications, including:
-
-- AWS Solutions architect associate
-- Azure DevOps expert
-- Azure Administrator associate
-- Certified Kubernetes administrator
-- Certified Kubernetes security specialist
+Across fintech, investment banking, consultancies, and startups, I've shipped resilient software at scale and led platform initiatives from Hong Kong, Singapore, Germany, Taiwan, Canada, New Zealand, and Australia.
